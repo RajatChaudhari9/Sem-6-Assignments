@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sem-6-Assignments/static/css/main.cf3c57f1.chunk.css",
+    "main.js": "/Sem-6-Assignments/static/js/main.88b317a3.chunk.js",
+    "main.js.map": "/Sem-6-Assignments/static/js/main.88b317a3.chunk.js.map",
+    "runtime-main.js": "/Sem-6-Assignments/static/js/runtime-main.e017f0b4.js",
+    "runtime-main.js.map": "/Sem-6-Assignments/static/js/runtime-main.e017f0b4.js.map",
+    "static/js/2.6b8baadb.chunk.js": "/Sem-6-Assignments/static/js/2.6b8baadb.chunk.js",
+    "static/js/2.6b8baadb.chunk.js.map": "/Sem-6-Assignments/static/js/2.6b8baadb.chunk.js.map",
+    "index.html": "/Sem-6-Assignments/index.html",
+    "static/css/main.cf3c57f1.chunk.css.map": "/Sem-6-Assignments/static/css/main.cf3c57f1.chunk.css.map",
+    "static/js/2.6b8baadb.chunk.js.LICENSE.txt": "/Sem-6-Assignments/static/js/2.6b8baadb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e017f0b4.js",
+    "static/js/2.6b8baadb.chunk.js",
+    "static/css/main.cf3c57f1.chunk.css",
+    "static/js/main.88b317a3.chunk.js"
+  ]
+}
